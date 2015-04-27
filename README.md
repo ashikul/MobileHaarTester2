@@ -1,16 +1,20 @@
 # Fruit Detection App
 
-android app with openCV using haar feature-based cascade to detect a banana
+Android app with OpenCV using haar feature-based cascade to detect a banana
 
-Pictures
+Intended Design
 
-
+<img src=https://github.com/ashikul/MobileHaarTester2/blob/master/images/design.png"><br>
 
 Results
 
--only a single type of fruit was tested
--application is very slow, around 1 to 3 fps
--very low accuracy, lots of noise
+<img src=https://github.com/ashikul/MobileHaarTester2/blob/master/images/output1.png"><br>
+
+<img src=https://github.com/ashikul/MobileHaarTester2/blob/master/images/output2.png"><br>
+
+-Only a single type of fruit was tested
+-Application is very slow, around 1 to 3 fps
+-Very low accuracy, lots of noise
 
 Credits
 
