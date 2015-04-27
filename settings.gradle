@@ -1,0 +1,4 @@
+//include ':openCVLibrary2410'
+include ':openCVSamplefacedetection', 'opencv-java'
+//include ':libraries:opencv'
+//include ':app', ':opencv-java'
